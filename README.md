@@ -62,7 +62,7 @@ python --version
   
 1. **Clone the repository**  
 ```bash  
-git clone https://github.com/muneebwanee/InstaReporter.git  
+git clone https://github.com/otterai/Instagram-tool.git  
 cd InstaReporter  
 ```  
   
