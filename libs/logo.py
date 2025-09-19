@@ -4,22 +4,28 @@ from colorama import Fore, Back, Style
 from random import choice
 
 logo = """
-╭━━╮╱╱╱╱╱╭╮╱╱╱╭━━━╮╱╱╱╱╱╱╱╱╱╱╭╮
-╰┫┣╯╱╱╱╱╭╯╰╮╱╱┃╭━╮┃╱╱╱╱╱╱╱╱╱╭╯╰╮
-╱┃┃╭━╮╭━┻╮╭╋━━┫╰━╯┣━━┳━━┳━━┳┻╮╭╋━━┳━╮
-╱┃┃┃╭╮┫━━┫┃┃╭╮┃╭╮╭┫┃━┫╭╮┃╭╮┃╭┫┃┃┃━┫╭╯
-╭┫┣┫┃┃┣━━┃╰┫╭╮┃┃┃╰┫┃━┫╰╯┃╰╯┃┃┃╰┫┃━┫┃
-╰━━┻╯╰┻━━┻━┻╯╰┻╯╰━┻━━┫╭━┻━━┻╯╰━┻━━┻╯
-╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱┃┃
-╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╰╯"""
+
+██╗███╗░░██╗░██████╗████████╗░█████╗░░██████╗░██████╗░░█████╗░███╗░░░███╗
+██║████╗░██║██╔════╝╚══██╔══╝██╔══██╗██╔════╝░██╔══██╗██╔══██╗████╗░████║
+██║██╔██╗██║╚█████╗░░░░██║░░░███████║██║░░██╗░██████╔╝███████║██╔████╔██║
+██║██║╚████║░╚═══██╗░░░██║░░░██╔══██║██║░░╚██╗██╔══██╗██╔══██║██║╚██╔╝██║
+██║██║░╚███║██████╔╝░░░██║░░░██║░░██║╚██████╔╝██║░░██║██║░░██║██║░╚═╝░██║
+╚═╝╚═╝░░╚══╝╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝░╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝
+
+        ░░██╗  ████████╗░█████╗░░█████╗░██╗░░░░░  ██╗░░
+        ░██╔╝  ╚══██╔══╝██╔══██╗██╔══██╗██║░░░░░  ╚██╗░
+        ██╔╝░  ░░░██║░░░██║░░██║██║░░██║██║░░░░░  ░╚██╗
+        ╚██╗░  ░░░██║░░░██║░░██║██║░░██║██║░░░░░  ░██╔╝
+        ░╚██╗  ░░░██║░░░╚█████╔╝╚█████╔╝███████╗  ██╔╝░
+        ░░╚═╝  ░░░╚═╝░░░░╚════╝░░╚════╝░╚══════╝  ╚═╝░░ """
 
 urls = [
-    "GitHub - https://github.com/muneebwanee",
-    "Instagram - https://instagram.com/muneebwanee",
-    "Facebook - https://fb.com/muneebwane",
-    "Twitter - https://twitter.com/muneebwanee",
-    "InstaReporter Tool - https://github.com/muneebwanee/InstaReporter",
-    "Gmail - mailto:muneebwanee@gmail.com"
+    "GitHub - https://github.com/otterai",
+    "Instagram - https://instagram.com/foileds",
+    "Facebook - https://fb.com/zuck",
+    "Twitter - https://twitter.com/Panwala_",
+    "InstaReporter Tool - https://github.com/otterai/Instagram-tool",
+    "Gmail - mailto:chutpaglu@duck.com"
     ]
 
 def print_logo():
@@ -28,3 +34,4 @@ def print_logo():
     print(Fore.CYAN + "\n", "-> Follow me On Instagram @muneebwanee.")
     print ("\n", "-> Special For Hackers:\n    " + choice(urls))
     print(Style.RESET_ALL + Style.BRIGHT, Style.BRIGHT)
+
