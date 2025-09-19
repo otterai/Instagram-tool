@@ -19,7 +19,7 @@
   
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://python.org)  
 [![License](https://img.shields.io/badge/License-Educational-green.svg)](LICENSE)  
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)](https://github.com/muneebwanee/InstaReporter)  
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)](https://github.com/otterai/Instagram-tool)  
   
 </div>  
   
@@ -245,9 +245,9 @@ Found a bug? Please open an issue with:
   
 **👨‍💻 Producer: Muneeb**  
   
-[![Instagram](https://img.shields.io/badge/Instagram-@muneebwanee-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muneebwanee)  
-[![GitHub](https://img.shields.io/badge/GitHub-muneebwanee-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muneebwanee)  
-[![Email](https://img.shields.io/badge/Email-muneebwanee@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muneebwanee@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-@foileds-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/metaui)  
+[![GitHub](https://img.shields.io/badge/GitHub-otterai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/otterai)  
+[![Email](https://img.shields.io/badge/Email-chutpaglu@duck.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chutpaglu@duck.com)  
   
 </div>  
   
@@ -263,6 +263,6 @@ This project is licensed under the **Educational License** - see the [LICENSE](L
   
 **⭐ If this project helped you, please give it a star! ⭐**  
   
-*Made with ❤️ by [Muneeb](https://github.com/muneebwanee)*  
+*Made with ❤️ by [@Otterai](https://github.com/otterai)*  
   
 </div>
