@@ -17,7 +17,45 @@
         ╚██╗░  ░░░██║░░░██║░░██║██║░░██║██║░░░░░  ░██╔╝
         ░╚██╗  ░░░██║░░░╚█████╔╝╚█████╔╝███████╗  ██╔╝░
         ░░╚═╝  ░░░╚═╝░░░░╚════╝░░╚════╝░╚══════╝  ╚═╝░░
-```  
+```
+
+<h1 align="center" style="
+color:#ff00ff;
+text-shadow:
+0 0 6px #ff00ff,
+0 0 12px #00ffff,
+0 0 18px #00ff99;">
+🚀 Advanced PAID TOOLS
+</h1>
+
+<p align="center" style="
+color:#ffffff;
+font-size:16px;
+text-shadow:
+0 0 5px #00ffff,
+0 0 10px #8a2be2;">
+Fully working <b>Windows</b> & <b>Android</b> applications with powerful <b>Python scripts</b> included.<br>
+Fast • Automated • Clean • Reliable<br><br>
+Premium services available on request
+</p>
+
+<p align="center">
+<a href="https://t.me/metaui" target="_blank" style="
+color:#00ff99;
+font-size:18px;
+font-weight:bold;
+text-decoration:none;
+text-shadow:
+0 0 6px #00ff99,
+0 0 12px #00ff99,
+0 0 18px #00ff99;">
+👉 Contact on Telegram: @metaui
+</a>
+</p>
+
+
+
+
   
 **🚀 Advanced Instagram Content Reporting Automation Tool**  
   
@@ -25,6 +63,10 @@
 <img align="right" alt="count" src="https://count.getloli.com/get/@:otterai?theme=rule34">
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://python.org)  
 [![License](https://img.shields.io/badge/License-Educational-green.svg)](LICENSE)  
+
+
+
+
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)](https://github.com/otterai/Instagram-tool)  
   
 </div>  
